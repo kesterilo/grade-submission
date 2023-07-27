@@ -1,4 +1,4 @@
-package com.gradesubmission;
+package com.projects;
 
 public class Grade {
   private String name;
