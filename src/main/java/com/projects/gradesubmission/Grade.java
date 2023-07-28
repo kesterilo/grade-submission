@@ -1,4 +1,4 @@
-package com.projects;
+package com.projects.gradesubmission;
 
 public class Grade {
   private String name;
@@ -39,6 +39,5 @@ public class Grade {
   public void setScore(String score) {
     this.score = score;
   }
-  
   
 }
